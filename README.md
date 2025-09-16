@@ -1,60 +1,49 @@
-<!-- 🔵 Верхний баннер -->
+<!-- 🌈 Верхний баннер -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0C1E46&height=220&section=header&text=Hey!%20I'm%20Jakhongir%20👋&fontSize=42&fontColor=ffffff&animation=twinkling"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1E3A8A,100:9333EA&height=220&section=header&text=Hey!%20I'm%20Jakhongir%20👋&fontSize=42&fontColor=ffffff&animation=twinkling"/>
 </p>
 
 # 🚀 Python Backend Developer  
 
-💡 Я начинающий **Python Backend Developer**, увлечён созданием надёжных и масштабируемых веб-приложений.  
-⚡ Моя цель — расти как инженер, изучать современные технологии и работать над проектами с высокой нагрузкой.  
+💡 Я начинающий **Python Backend Developer**, увлечён созданием надёжных и современных веб-приложений.  
+⚡ Стремлюсь к разработке **масштабируемых решений** и изучаю новые технологии.  
 
 ---
 
 ## 🧑‍💻 Обо мне  
 
-- 🔭 Сейчас разрабатываю **онлайн-систему бронирования ресторанов**.  
-- 🌱 Изучаю **FastAPI, Celery, асинхронное программирование**.  
-- 🧩 Люблю писать **чистый и читаемый код**, придерживаюсь **SOLID, DRY, KISS**.  
-- 🎯 Интересуюсь **микросервисной архитектурой** и **DevOps-практиками**.  
-- 📚 В свободное время решаю задачи на **LeetCode** и читаю про алгоритмы.  
-- 🎵 Код часто пишу под **Lo-Fi музыку**.  
+- 🔭 Сейчас пишу **систему онлайн-бронирования ресторанов**.  
+- 🌱 Изучаю **FastAPI, Celery, асинхронность**.  
+- 🧩 Люблю **чистый код** и архитектуру по принципам **SOLID / DRY**.  
+- 🎯 Цель: попасть в команду, работающую над **high-load проектами**.  
+- 🎵 Лучший код получается под **Lo-Fi**.  
 
 ---
 
-## 🛠️ Технологии и инструменты  
+## 🛠️ Технологии  
 
-### 🔹 Языки и фреймворки  
-![Python](https://img.shields.io/badge/Python-0C1E46?style=for-the-badge&logo=python&logoColor=white)  
-![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)  
-![DRF](https://img.shields.io/badge/DRF-0C1E46?style=for-the-badge&logo=django&logoColor=white)  
-![FastAPI](https://img.shields.io/badge/FastAPI-0C1E46?style=for-the-badge&logo=fastapi&logoColor=white)  
-
-### 🔹 Базы данных  
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-0C1E46?style=for-the-badge&logo=postgresql&logoColor=white)  
-![SQLite](https://img.shields.io/badge/SQLite-0C1E46?style=for-the-badge&logo=sqlite&logoColor=white)  
-
-### 🔹 Инфраструктура и инструменты  
-![Docker](https://img.shields.io/badge/Docker-0C1E46?style=for-the-badge&logo=docker&logoColor=white)  
-![Redis](https://img.shields.io/badge/Redis-0C1E46?style=for-the-badge&logo=redis&logoColor=white)  
-![Linux](https://img.shields.io/badge/Linux-0C1E46?style=for-the-badge&logo=linux&logoColor=white)  
-![Git](https://img.shields.io/badge/Git-0C1E46?style=for-the-badge&logo=git&logoColor=white)  
-![GitHub](https://img.shields.io/badge/GitHub-0C1E46?style=for-the-badge&logo=github&logoColor=white)  
-![Pytest](https://img.shields.io/badge/Pytest-0C1E46?style=for-the-badge&logo=pytest&logoColor=white)  
+<p align="center">
+  <img src="https://img.shields.io/badge/Python-1E3A8A?style=for-the-badge&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white"/>
+  <img src="https://img.shields.io/badge/DRF-9333EA?style=for-the-badge&logo=django&logoColor=white"/>
+  <img src="https://img.shields.io/badge/FastAPI-1E3A8A?style=for-the-badge&logo=fastapi&logoColor=white"/>
+  <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Pytest-9333EA?style=for-the-badge&logo=pytest&logoColor=white"/>
+</p>
 
 ---
 
-## 📂 Избранные проекты  
+## 📂 Проекты  
 
-### 🍽️ Online Booking System  
-Сервис бронирования столиков (Django + DRF + PostgreSQL + Docker).  
+🔹 **Online Booking System** – бронирование столиков (Django + DRF + Docker).  
 👉 [Смотреть проект](https://github.com/Az1mbek-Xak1mov/OnlineBooking)  
 
-### 📊 FinTrack  
-Финансовый трекер с REST API и тестами (Django + DRF + Pytest).  
+🔹 **FinTrack** – финансовый трекер с API и тестами (Django + Pytest).  
 👉 [Смотреть проект](https://github.com/Jakhongir161/DjangoFinTrack)  
 
-### 🤖 Weather Bot  
-Telegram-бот с прогнозом погоды и советами.  
+🔹 **Weather Bot** – Telegram-бот с прогнозом погоды.  
 👉 [Смотреть проект](https://github.com/Jakhongir161/data-tools)  
 
 ---
@@ -62,53 +51,44 @@ Telegram-бот с прогнозом погоды и советами.
 ## 📊 GitHub Статистика  
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Jakhongir161&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0C1E46&title_color=ffffff&icon_color=58a6ff&text_color=ffffff" height="165px"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jakhongir161&layout=compact&theme=tokyonight&hide_border=true&bg_color=0C1E46&title_color=ffffff&text_color=ffffff" height="165px"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=Jakhongir161&show_icons=true&theme=radical&hide_border=true&bg_color=1E3A8A&title_color=9333EA&icon_color=ffffff&text_color=ffffff" height="165px"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jakhongir161&layout=compact&theme=radical&hide_border=true&bg_color=1E3A8A&title_color=9333EA&text_color=ffffff" height="165px"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Jakhongir161&theme=tokyonight&hide_border=true&background=0C1E46&ring=58a6ff&fire=ffffff&currStreakLabel=ffffff" height="165px"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Jakhongir161&theme=radical&hide_border=true&background=1E3A8A&ring=9333EA&fire=ffffff&currStreakLabel=ffffff" height="165px"/>
 </p>
 
 ---
 
 ## 🏆 Достижения  
 
-- 🥇 Решил более **100 задач** на LeetCode.  
-- 🏅 Участвовал в **хакатонах** и командных проектах.  
-- 🚀 Написал несколько **pet-проектов** для практики и портфолио.  
-- 📖 Постоянно изучаю новые технологии и применяю их в работе.  
+- ✅ Решил более **100 задач** на LeetCode.  
+- 🏅 Участвовал в **хакатонах**.  
+- 🚀 Создал несколько **pet-проектов**.  
+- 📖 Постоянно изучаю новые технологии.  
 
 ---
 
-## 🎯 Планы на будущее  
+## 🎯 Планы  
 
-- Освоить **Kafka и микросервисы**.  
-- Настроить CI/CD (GitHub Actions + Docker + Kubernetes).  
-- Написать **собственный сервис с открытым API**.  
-- Углубиться в **алгоритмы и архитектуру приложений**.  
-
----
-
-## 🎉 Fun Facts  
-
-- ⚡ Люблю автоматизировать всё, что можно.  
-- 🎵 Код всегда под музыку Lo-Fi.  
-- 🍕 Любимый стек: *Python + Django + PostgreSQL + Docker*.  
+- Изучить **Kafka и микросервисы**.  
+- Освоить **CI/CD (GitHub Actions, Docker, Kubernetes)**.  
+- Сделать **open-source проект** с открытым API.  
 
 ---
 
 ## 🌍 Контакты  
 
 <p align="center">
-  <a href="mailto:usmanovj161@gmail.com"><img src="https://img.shields.io/badge/Email-0C1E46?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-  <a href="https://t.me/yourusername"><img src="https://img.shields.io/badge/Telegram-0C1E46?style=for-the-badge&logo=telegram&logoColor=white"/></a>
-  <a href="https://www.linkedin.com/in/jakhongir-usmanov-948497379"><img src="https://img.shields.io/badge/LinkedIn-0C1E46?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="mailto:usmanovj161@gmail.com"><img src="https://img.shields.io/badge/Email-9333EA?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+  <a href="https://t.me/yourusername"><img src="https://img.shields.io/badge/Telegram-1E3A8A?style=for-the-badge&logo=telegram&logoColor=white"/></a>
+  <a href="https://www.linkedin.com/in/jakhongir-usmanov-948497379"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
 </p>
 
 ---
 
-<!-- 🔵 Нижний баннер -->
+<!-- 🌈 Нижний баннер -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0C1E46&height=120&section=footer"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=9333EA&height=120&section=footer"/>
 </p>
