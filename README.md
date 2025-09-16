@@ -1,11 +1,11 @@
-<!-- 🌊 Верхний баннер -->
-![Header](https://capsule-render.vercel.app/api?type=waving&color=0:4F46E5,100:9333EA&height=250&section=header&text=Hey%20there,%20I'm%20Jakhongir%20👋&fontSize=42&fontColor=ffffff&animation=twinkling)
+<!-- 🌌 Верхний баннер -->
+![Header](https://capsule-render.vercel.app/api?type=waving&color=0:1e1e2e,100:2e2e3e&height=250&section=header&text=Hey%20there,%20I'm%20Jakhongir%20👋&fontSize=42&fontColor=ffffff&animation=twinkling)
 
 # 🚀 Python Backend Developer  
 
 💡 Я начинающий **Python Backend Developer**, увлечён созданием современных веб-приложений.  
 ⚡ Моя цель — развиваться в backend-разработке, изучать новые технологии и участвовать в интересных проектах.  
-🎯 Основной фокус: **Django, DRF, FastAPI, PostgreSQL, Docker, Redis**.  
+🎯 Основной фокус: **Django, DRF, FastAPI, PostgreSQL, Docker, Redis, Pytest**.  
 
 ---
 
@@ -23,29 +23,34 @@
 
 ### 🔹 Языки программирования  
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)  
+![JavaScript](https://img.shields.io/badge/JavaScript-2e2e3e?style=for-the-badge&logo=javascript&logoColor=F7DF1E)  
 
 ### 🔹 Backend  
 ![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)  
-![DRF](https://img.shields.io/badge/DRF-ff1709?style=for-the-badge&logo=django&logoColor=white)  
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)  
+![DRF](https://img.shields.io/badge/DRF-B22222?style=for-the-badge&logo=django&logoColor=white)  
+![FastAPI](https://img.shields.io/badge/FastAPI-2e2e3e?style=for-the-badge&logo=fastapi&logoColor=00FA9A)  
 
 ### 🔹 Базы данных  
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)  
-![SQLite](https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white)  
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-2e2e3e?style=for-the-badge&logo=postgresql&logoColor=336791)  
+![SQLite](https://img.shields.io/badge/SQLite-2e2e3e?style=for-the-badge&logo=sqlite&logoColor=white)  
 
-### 🔹 Инфраструктура и инструменты  
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)  
-![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)  
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)  
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)  
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)  
+### 🔹 Инфраструктура и DevOps  
+![Docker](https://img.shields.io/badge/Docker-2e2e3e?style=for-the-badge&logo=docker&logoColor=2496ED)  
+![Redis](https://img.shields.io/badge/Redis-2e2e3e?style=for-the-badge&logo=redis&logoColor=DC382D)  
+![Linux](https://img.shields.io/badge/Linux-2e2e3e?style=for-the-badge&logo=linux&logoColor=FCC624)  
+![Git](https://img.shields.io/badge/Git-2e2e3e?style=for-the-badge&logo=git&logoColor=F05032)  
+![GitHub](https://img.shields.io/badge/GitHub-2e2e3e?style=for-the-badge&logo=github&logoColor=ffffff)  
+
+### 🔹 Тестирование и CI/CD  
+![Pytest](https://img.shields.io/badge/Pytest-2e2e3e?style=for-the-badge&logo=pytest&logoColor=0A9EDC)  
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2e2e3e?style=for-the-badge&logo=githubactions&logoColor=2088FF)  
 
 ---
 
 ## 📂 Избранные проекты  
 
 ### 🍽️ FinTrack System  
-Сервис онлайн-бронирования столиков (Django + DRF + PostgreSQL + Docker).  
+Финансовый трекер + бронирование столиков (Django + DRF + PostgreSQL + Docker).  
 👉 [Смотреть проект](https://github.com/Jakhongir161/DjangoFinTrack)  
 
 ### 📊 Data Tools  
@@ -54,19 +59,19 @@
 
 ### 🔐 Auth API  
 REST API для регистрации и аутентификации пользователей (Django + JWT).  
-👉 [Смотреть проект](https://github.com/Jakhongir161/OnlineBooking)  
+👉 [Смотреть проект](https://github.com/Az1mbek-Xak1mov/OnlineBooking)  
 
 ---
 
 ## 📊 GitHub Статистика  
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Jakhongir161&show_icons=true&theme=tokyonight&hide_border=true" height="165px"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jakhongir161&layout=compact&theme=tokyonight&hide_border=true" height="165px"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=Jakhongir161&show_icons=true&theme=radical&hide_border=true" height="165px"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jakhongir161&layout=compact&theme=radical&hide_border=true" height="165px"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Jakhongir161&theme=tokyonight&hide_border=true" height="165px"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Jakhongir161&theme=radical&hide_border=true" height="165px"/>
 </p>
 
 ---
@@ -103,6 +108,5 @@ REST API для регистрации и аутентификации поль�
 
 ---
 
-<!-- 🌊 Нижний баннер -->
-![Footer](https://capsule-render.vercel.app/api?type=waving&color=0:9333EA,100:4F46E5&height=140&section=footer)
-
+<!-- 🌌 Нижний баннер -->
+![Footer](https://capsule-render.vercel.app/api?type=waving&color=0:2e2e3e,100:1e1e2e&height=140&section=footer)
